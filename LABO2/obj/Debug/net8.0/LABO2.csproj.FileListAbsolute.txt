@@ -1,0 +1,15 @@
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\bin\Debug\net8.0\LABO2.exe
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\bin\Debug\net8.0\LABO2.deps.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\bin\Debug\net8.0\LABO2.runtimeconfig.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\bin\Debug\net8.0\LABO2.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\bin\Debug\net8.0\LABO2.pdb
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.AssemblyInfoInputs.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.AssemblyInfo.cs
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.csproj.CoreCompileInputs.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.sourcelink.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\refint\LABO2.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.pdb
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\LABO2.genruntimeconfig.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Labo concepts informatiques\LABO2\LABO2\obj\Debug\net8.0\ref\LABO2.dll
